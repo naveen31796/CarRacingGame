@@ -1,1 +1,2 @@
-# pyCarRacingGame
+# CarRacingGame
+# pygame
